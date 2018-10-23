@@ -1,0 +1,27 @@
+body {
+  margin: 0px;
+  color: #FFFFFF;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+#home {
+  height: 100vh;
+  background-image: url('home.jpg');
+  background-size: cover;
+  background-position: center center;
+  font-size: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#avantage{
+  padding:15px;
+  background-color: #ecf0f1;
+  color: #15657B;
+}
+
+.justify {
+  text-align : justify;
+}
